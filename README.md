@@ -18,7 +18,10 @@ For Alkyne  x = n, y = 2n-2
 Substituting these in above reaction we get 
 
 For Alkane ar = (3n+1)/2
+
 For Alkene ar = (3n)/2
+
 For Alkyne ar = (3n-1)/2
+
 Result:
 As we can see from the graph that for a particular no. of Carbon atoms the ar value of alkane is higher than that of alkene and alkyne. Thus, we need to have more no. of moles of oxygen for alkanes than alkenes and alkynes 
