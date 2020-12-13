@@ -25,3 +25,5 @@ For Alkyne ar = (3n-1)/2
 
 Result:
 As we can see from the graph that for a particular no. of Carbon atoms the ar value of alkane is higher than that of alkene and alkyne. Thus, we need to have more no. of moles of oxygen for alkanes than alkenes and alkynes 
+
+![relationship graph](https://user-images.githubusercontent.com/74448981/102005351-34522f00-3d3e-11eb-81fb-7964e9930b03.png)
